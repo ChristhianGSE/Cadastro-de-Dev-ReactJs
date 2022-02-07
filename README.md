@@ -1,5 +1,5 @@
 # Cadastro-de-Dev-ReactJs
 
-ReactJs
-TypeScript
-styled-components
+✔️ReactJs
+✔️TypeScript
+✔️styled-components
